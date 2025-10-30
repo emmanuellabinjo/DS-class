@@ -1,0 +1,4 @@
+"customerid","firstname","lastname","country","score"
+5,"Anna","Adams","USA",NULL
+2,"Kevin","Brown","USA","900"
+3,"Mary",NULL,"USA","750"
